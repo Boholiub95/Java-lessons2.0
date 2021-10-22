@@ -16,6 +16,8 @@ public class Test3 {
         test(animal);
         test(dog);
         test(cat);
+        Dog dog2 = (Dog)  animal;
+        dog2.bark();
 
     }
     public  static void  test (Animal animal) {
