@@ -22,6 +22,6 @@ public class Task2 {
                 yield -1;
             }
         };
-        return result;
+        return result1;
     }
 }
