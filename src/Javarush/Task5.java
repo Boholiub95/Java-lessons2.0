@@ -1,3 +1,5 @@
+package Javarush;
+
 public class Task5 {
 
     public enum Shape {
