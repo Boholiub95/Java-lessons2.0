@@ -1,4 +1,4 @@
-
+/*
     public class Message <T> {
         private T value;
         public Message() {}
@@ -39,10 +39,11 @@ import by.epam.learn.messenger.entity.Message;
             ob3.setValue(new Byte((byte)1));
             ob3.setValue("Java SE 12");
             System.out.println(ob3);/* the type of the object is displayed, not the type of
- parameterization */
+ parameterization *//*
             ob3.setValue(71);
             System.out.println(ob3);
             ob3.setValue(null);
         }
     }
 }
+*/
