@@ -9,7 +9,7 @@ Reads N numbers from the console (you don't have to check any numbers that are g
 Initializes a two-dimensional multiArray:
 */
 
-public class Solution {
+public class Solution9 {
     public static int[][] multiArray;
 
     public static void main(String[] args) {
