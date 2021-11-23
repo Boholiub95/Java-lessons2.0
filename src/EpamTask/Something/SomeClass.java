@@ -1,6 +1,6 @@
-package Forest;
+package EpamTask.Something;
 
-public class Squirell {
+public class SomeClass {
     public static void main(String[] args) {
 
     }

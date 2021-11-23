@@ -1,6 +1,6 @@
-package Forest.Something;
+package EpamTask;
 
-public class SomeClass {
+public class Tree {
     public static void main(String[] args) {
 
     }
