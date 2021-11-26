@@ -39,4 +39,19 @@ public class Snail
 
 
     }
+
+    public static class MeetAnAgent {
+        final static int password = 133976; //You can change pass, but don't change the type
+
+        public static void main(String[] args) {
+            Scanner sc = new Scanner(System.in);
+            int input = sc.nextInt();
+            if(input == password){
+                System.out.println("Hello, Agent");
+            }else {
+                System.out.println("Access denied");
+            }
+
+        }
+    }
 }

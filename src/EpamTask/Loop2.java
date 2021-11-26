@@ -9,7 +9,7 @@ public class Loop2 {
         int suma= 0, midlle= 0, number = 0;
         int count = 0;
 
-        while (input.equals( "." )!=true)
+        while (input.equals( "0" )!=true)
         {
             number = Integer.parseInt(input);
             suma = suma+number;
